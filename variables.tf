@@ -11,7 +11,9 @@ variable "prefix" {
 
 variable "region" {
   description = "The region where the resources are created."
-  default     = "us-east-1"
+  default     = "git add .
+git commit -m "adding remote backend"
+git push origin master"
 }
 
 variable "address_space" {
